@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Artificial Intelligence  & Data Science student at CMR Institute of Technology (CGPA 8.61)<br>Google Gemini Student ambassador<br>AI & Cloud Intern at Edunet-IBM<br>AI Azure Intern at Edunet-Microsoft<br>Data Analytics at Edunet-VOIS<br>Technical Lead at ACE, CMRIT<br>Interested in building data-driven and AI-powered solutions<br>EmailID:nidr23ainds@cmrit.ac.in/nihaldr77@gmail.com<br>LinkedIn: https://www.linkedin.com/in/nihal-dr-b1021a281/
+Artificial Intelligence  & Data Science student at CMR Institute of Technology (CGPA 8.52)<br>Google Gemini Student ambassador<br>AI & Cloud Intern at Edunet-IBM<br>AI Azure Intern at Edunet-Microsoft<br>Data Analytics at Edunet-VOIS<br>Technical Lead at ACE, CMRIT<br>Interested in building data-driven and AI-powered solutions<br>EmailID:nidr23ainds@cmrit.ac.in/nihaldr77@gmail.com<br>LinkedIn: https://www.linkedin.com/in/nihal-dr-b1021a281/
 
 
 ## 🌐 Socials:
