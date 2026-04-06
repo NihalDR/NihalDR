@@ -3,7 +3,6 @@
   <p align="center">
     <strong>Bridging the gap between data architecture and scalable web solutions.</strong>
     <br/>
-    Intern @ <b>Microsoft</b> & <b>IBM</b> | CGPA: <b>8.55</b>
 
 
   <a href="https://nihaldr.in/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
