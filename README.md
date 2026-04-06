@@ -5,15 +5,18 @@
     <strong>Bridging the gap between data architecture and scalable web solutions.</strong>
     <br/>
     Intern @ <b>Microsoft</b> & <b>IBM</b> | CGPA: <b>8.55</b>
-  </p>
+
 
   <a href="https://nihaldr.in/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/nihaldr77"><img src="https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
   <a href="https://instagram.com/nihaldr77"><img src="https://img.shields.io/badge/Instagram-252525?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram"/></a>
   <a href="mailto:nihaldr77@gmail.com"><img src="https://img.shields.io/badge/Email-252525?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/></a>
-  
+    </p>
+  <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
   <br/><br/>
-# 💫 About Me:
+💫 About Me:
 Artificial Intelligence & Data Science student at CMR Institute of Technology (CGPA 8.55)<br>Google Gemini Student Ambassador<br>Active open-source contributor (currently contributing to organizations like CCExtractor)<br>AI & Cloud Intern at Edunet-IBM<br>AI Azure Intern at Edunet-Microsoft<br>Data Analytics at Edunet-VOIS<br>Technical Lead at ACE, CMRIT<br>Interested in building data-driven and AI-powered solutions<br>EmailID: nidr23ainds@cmrit.ac.in / nihaldr77@gmail.com<br>LinkedIn: https://www.linkedin.com/in/nihal-dr-b1021a281/<br>Portfolio: https://nihaldr.in/
 
 # 💻 Tech Stack:
