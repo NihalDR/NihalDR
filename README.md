@@ -31,9 +31,33 @@
 
 <br/>
 
-💫 About Me:
-<br/>
-Artificial Intelligence & Data Science student at CMR Institute of Technology (CGPA 8.55)<br>Google Gemini Student Ambassador<br>Active open-source contributor (currently contributing to organizations like CCExtractor)<br>AI & Cloud Intern at Edunet-IBM<br>AI Azure Intern at Edunet-Microsoft<br>Data Analytics at Edunet-VOIS<br>Technical Lead at ACE, CMRIT<br>Interested in building data-driven and AI-powered solutions<br>EmailID: nidr23ainds@cmrit.ac.in / nihaldr77@gmail.com<br>LinkedIn: https://www.linkedin.com/in/nihal-dr-b1021a281/<br>Portfolio: https://nihaldr.in/
+<div align="center">
+
+## 💫 About Me
+
+<p>
+🎓 <b>Artificial Intelligence & Data Science</b> student at <b>CMR Institute of Technology</b> <br/>
+📊 CGPA: <b>8.55</b> <br/><br/>
+
+🌐 <b>Google Gemini Student Ambassador</b> <br/>
+💡 Active <b>Open Source Contributor</b> (CCExtractor & more) <br/><br/>
+
+💼 <b>Experience</b> <br/>
+🚀 AI & Cloud Intern @ Edunet - IBM <br/>
+☁️ AI Azure Intern @ Edunet - Microsoft <br/>
+📈 Data Analytics Intern @ Edunet - VOIS <br/><br/>
+
+👨‍💻 <b>Technical Lead</b> @ ACE, CMRIT <br/>
+🧠 Passionate about <b>AI-powered & data-driven solutions</b> <br/><br/>
+
+📬 <b>Contact Me</b> <br/>
+📧 nidr23ainds@cmrit.ac.in | nihaldr77@gmail.com <br/>
+🔗 <a href="https://www.linkedin.com/in/nihal-dr-b1021a281/">LinkedIn</a> <br/>
+🌐 <a href="https://nihaldr.in/">Portfolio</a>
+
+</p>
+
+</div>
 
 # 💻 Tech Stack:
 
