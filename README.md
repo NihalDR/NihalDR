@@ -1,12 +1,12 @@
 <div align="center">
 
-💫 About Me:
- <br/><br/>
-Artificial Intelligence & Data Science student at CMR Institute of Technology (CGPA 8.55)<br>Google Gemini Student Ambassador<br>Active open-source contributor (currently contributing to organizations like CCExtractor)<br>AI & Cloud Intern at Edunet-IBM<br>AI Azure Intern at Edunet-Microsoft<br>Data Analytics at Edunet-VOIS<br>Technical Lead at ACE, CMRIT<br>Interested in building data-driven and AI-powered solutions<br>EmailID: nidr23ainds@cmrit.ac.in / nihaldr77@gmail.com<br>LinkedIn: https://www.linkedin.com/in/nihal-dr-b1021a281/<br>Portfolio: https://nihaldr.in/
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Nihal+DR;Artificial+Intelligence+%26+Data+Science;Building+AI-Powered+Solutions;Active+SPC+%40+CMRIT" alt="Typing SVG" />
 
-<p align="center">
+  <p align="center">
     <strong>Bridging the gap between data architecture and scalable web solutions.</strong>
     <br/>
+    SDE Intern @ <b>ISRO</b> & <b>QUABYT</b> | CGPA: <b>9.06</b>
+  </p>
 
 
   <a href="https://nihaldr.in/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
