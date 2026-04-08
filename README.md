@@ -33,31 +33,76 @@
 
 <div align="center">
 
-## 💫 About Me
+<div align="center">
 
-<p>
-🎓 <b>Artificial Intelligence & Data Science</b> student at <b>CMR Institute of Technology</b> <br/>
-📊 CGPA: <b>8.55</b> <br/><br/>
+## ✨ About Me
 
-🌐 <b>Google Gemini Student Ambassador</b> <br/>
-💡 Active <b>Open Source Contributor</b> (CCExtractor & more) <br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:1F6FEB&height=120&section=header&text=Nihal%20DR&fontSize=40&fontColor=ffffff" />
 
-💼 <b>Experience</b> <br/>
-🚀 AI & Cloud Intern @ Edunet - IBM <br/>
-☁️ AI Azure Intern @ Edunet - Microsoft <br/>
-📈 Data Analytics Intern @ Edunet - VOIS <br/><br/>
+</div>
 
-👨‍💻 <b>Technical Lead</b> @ ACE, CMRIT <br/>
-🧠 Passionate about <b>AI-powered & data-driven solutions</b> <br/><br/>
+---
 
-📬 <b>Contact Me</b> <br/>
-📧 nidr23ainds@cmrit.ac.in | nihaldr77@gmail.com <br/>
-🔗 <a href="https://www.linkedin.com/in/nihal-dr-b1021a281/">LinkedIn</a> <br/>
-🌐 <a href="https://nihaldr.in/">Portfolio</a>
+### 👨‍💻 Profile Snapshot
+
+- 🎓 AI & Data Science @ **CMR Institute of Technology**  
+- 📊 **CGPA:** 8.55  
+- 🌐 **Google Gemini Student Ambassador**  
+- 💡 Open Source Contributor @ **CCExtractor**  
+- 🧠 Building **AI-powered & Data-driven systems**  
+
+---
+
+### 🚀 Experience
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IBM-Edunet%20Intern-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Intern-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/VOIS-Data%20Analytics-6A1B9A?style=for-the-badge&logo=vodafone&logoColor=white"/>
 
 </p>
 
-</div>
+---
+
+### 🧩 Leadership
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Technical%20Lead-ACE%20CMRIT-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:nidr23ainds@cmrit.ac.in">
+  <img src="https://img.shields.io/badge/College%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="mailto:nihaldr77@gmail.com">
+  <img src="https://img.shields.io/badge/Personal%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nihal-dr-b1021a281/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://nihaldr.in/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+```diff
++ I love turning complex data into intelligent solutions 🚀
 
 # 💻 Tech Stack:
 
