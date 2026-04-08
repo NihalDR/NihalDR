@@ -1,8 +1,9 @@
 <div align="center">
 
 <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Nihal+DR;Artificial+Intelligence+%26+Data+Science;Building+AI-Powered+Solutions;Active+SPC+%40+CMRIT" 
-    alt="Typing SVG" 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=Hi+there,+I'm+Nihal+DR;Artificial+Intelligence+%26+Data+Science;Building+AI-Powered+Solutions;Active+SPC+%40+CMRIT" 
+alt="Typing SVG" 
+/>
 <p>
 <strong>Bridging the gap between data architecture and scalable web solutions.</strong>
 </p>
@@ -29,6 +30,10 @@
 </div>
 
 <br/>
+
+💫 About Me:
+<br/>
+Artificial Intelligence & Data Science student at CMR Institute of Technology (CGPA 8.55)<br>Google Gemini Student Ambassador<br>Active open-source contributor (currently contributing to organizations like CCExtractor)<br>AI & Cloud Intern at Edunet-IBM<br>AI Azure Intern at Edunet-Microsoft<br>Data Analytics at Edunet-VOIS<br>Technical Lead at ACE, CMRIT<br>Interested in building data-driven and AI-powered solutions<br>EmailID: nidr23ainds@cmrit.ac.in / nihaldr77@gmail.com<br>LinkedIn: https://www.linkedin.com/in/nihal-dr-b1021a281/<br>Portfolio: https://nihaldr.in/
 
 # 💻 Tech Stack:
 
