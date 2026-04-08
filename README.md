@@ -1,108 +1,39 @@
 <div align="center">
 
-  <img 
+<img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Nihal+DR;Artificial+Intelligence+%26+Data+Science;Building+AI-Powered+Solutions;Active+SPC+%40+CMRIT" 
+    alt="Typing SVG" 
+  />
+
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=Hi+there,+I'm+Nihal+DR;Artificial+Intelligence+%26+Data+Science;Building+AI-Powered+Solutions;Active+SPC+%40+CMRIT" 
   alt="Typing SVG" 
 />
-  <p>
-    <strong>Bridging the gap between data architecture and scalable web solutions.</strong>
-  </p>
+<p>
+<strong>Bridging the gap between data architecture and scalable web solutions.</strong>
+</p>
 
-  <!-- Social Links -->
-  <p>
-    <a href="https://nihaldr.in/">
-      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://linkedin.com/in/nihaldr77">
-      <img src="https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
-    </a>
-    <a href="https://instagram.com/nihaldr77">
-      <img src="https://img.shields.io/badge/Instagram-252525?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-    </a>
-    <a href="mailto:nihaldr77@gmail.com">
-      <img src="https://img.shields.io/badge/Email-252525?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
-    </a>
-  </p>
+<!-- Social Links -->
+<p>
+<a href="https://nihaldr.in/">
+ <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/nihaldr77">
+ <img src="https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/nihaldr77">
+ <img src="https://img.shields.io/badge/Instagram-252525?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="mailto:nihaldr77@gmail.com">
+ <img src="https://img.shields.io/badge/Email-252525?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
+</a>
+</p>
 
-  <!-- GIF -->
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<!-- GIF -->
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 </div>
 
 <br/>
-
-<div align="center">
-
-<div align="center">
-
-## ✨ About Me
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:1F6FEB&height=120&section=header&text=Nihal%20DR&fontSize=40&fontColor=ffffff" />
-
-</div>
-
----
-
-### 👨‍💻 Profile Snapshot
-
-- 🎓 AI & Data Science @ **CMR Institute of Technology**  
-- 📊 **CGPA:** 8.55  
-- 🌐 **Google Gemini Student Ambassador**  
-- 💡 Open Source Contributor @ **CCExtractor**  
-- 🧠 Building **AI-powered & Data-driven systems**  
-
----
-
-### 🚀 Experience
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/IBM-Edunet%20Intern-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Intern-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/VOIS-Data%20Analytics-6A1B9A?style=for-the-badge&logo=vodafone&logoColor=white"/>
-
-</p>
-
----
-
-### 🧩 Leadership
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Technical%20Lead-ACE%20CMRIT-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-</p>
-
----
-
-### 📬 Connect With Me
-
-<p align="center">
-
-<a href="mailto:nidr23ainds@cmrit.ac.in">
-  <img src="https://img.shields.io/badge/College%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="mailto:nihaldr77@gmail.com">
-  <img src="https://img.shields.io/badge/Personal%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nihal-dr-b1021a281/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://nihaldr.in/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-### ⚡ Fun Fact
-
-```diff
-+ I love turning complex data into intelligent solutions 🚀
 
 # 💻 Tech Stack:
 
