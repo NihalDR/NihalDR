@@ -33,7 +33,7 @@ alt="Typing SVG"
 
 💫 About Me:
 <br/>
-Artificial Intelligence & Data Science student at CMR Institute of Technology (CGPA 8.55)<br>Google Gemini Student Ambassador<br>Active open-source contributor (currently contributing to organizations like CCExtractor)<br>AI & Cloud Intern at Edunet-IBM<br>AI Azure Intern at Edunet-Microsoft<br>Data Analytics at Edunet-VOIS<br>Technical Lead at ACE, CMRIT<br>Interested in building data-driven and AI-powered solutions<br>EmailID: nidr23ainds@cmrit.ac.in / nihaldr77@gmail.com<br>LinkedIn: https://www.linkedin.com/in/nihal-dr-b1021a281/<br>Portfolio: https://nihaldr.in/
+Artificial Intelligence & Data Science student at VTU (CGPA 8.55)<br>Google Gemini Student Ambassador<br>Active open-source contributor (currently contributing to organizations like CCExtractor)<br>AI & Cloud Intern at Edunet-IBM<br>AI Azure Intern at Edunet-Microsoft<br>Data Analytics at Edunet-VOIS<br>Technical Lead at ACE, VTU<br>Interested in building data-driven and AI-powered solutions<br>EmailID: nidr23ainds@cmrit.ac.in / nihaldr77@gmail.com<br>LinkedIn: https://www.linkedin.com/in/nihal-dr-b1021a281/<br>Portfolio: https://nihaldr.in/
 
 # 💻 Tech Stack:
 
